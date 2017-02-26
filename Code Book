@@ -3,3 +3,8 @@
 This code book explains data fields in tidy_data_set.txt  
 
 * "SubjectID" 
+ID of test subject, 1 - 30
+
+"ActivityID" & "ActivityType" 
+
+One of six possible acctivities, w
