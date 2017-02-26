@@ -1,15 +1,15 @@
-# Code Book
+Code Book
 
-This code book explains data fields in tidy_data_set.txt  
+This code book lists data fields in tidy_data_set.txt  
 
 * "SubjectID" 
 ID of test subject, 1 - 30
 
-"ActivityID" 
+* "ActivityID" 
 
 One of six possible acctivities, while testing
 
-Measurments
+* Measurments
 
 "tBodyAccMeanX"                     
 "tBodyAccMeanY"                    
